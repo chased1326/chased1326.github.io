@@ -1,3 +1,3 @@
-$("#stop").click(function(){
-    $("#panel").stop();
+$(document).ready(function() {
+    $( ).fadeOut(1000);
 });
